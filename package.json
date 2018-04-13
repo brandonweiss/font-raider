@@ -1,6 +1,6 @@
 {
 	"name": "font-raider",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "Finds fonts that are available but the files are hidden",
 	"license": "MIT",
 	"repository": "brandonweiss/font-raider",
