@@ -8,7 +8,7 @@ const fontName = process.argv[2]
 const outputDirectory = process.argv[3]
 
 if (fontName === undefined) {
-  console.log("A font name to seach for is required.")
+  console.log("A font name to search for is required.")
   process.exit(1)
 }
 
