@@ -1,21 +1,21 @@
 {
-	"name": "font-raider",
-	"version": "0.1.1",
-	"description": "Finds fonts that are available but the files are hidden",
-	"license": "MIT",
-	"repository": "brandonweiss/font-raider",
-	"author": {
-		"name": "Brandon Weiss",
-		"email": "brandon@anti-pattern.com"
-	},
-	"bin": "cli.js",
-	"engines": {
-		"node": ">= 9.0.0"
-	},
-	"dependencies": {
-		"plist": "^2.1.0"
-	},
-	"devDependencies": {
-		"np": "^2.20.1"
-	}
+  "name": "font-raider",
+  "version": "0.1.1",
+  "description": "Finds fonts that are available but the files are hidden",
+  "license": "MIT",
+  "repository": "brandonweiss/font-raider",
+  "author": {
+  "name": "Brandon Weiss",
+    "email": "brandon@anti-pattern.com"
+  },
+  "bin": "cli.js",
+  "engines": {
+    "node": ">= 9.0.0"
+  },
+  "dependencies": {
+    "plist": "^2.1.0"
+  },
+  "devDependencies": {
+    "np": "^2.20.1"
+  }
 }
