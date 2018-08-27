@@ -13,7 +13,7 @@
     "node": ">= 9.0.0"
   },
   "dependencies": {
-    "plist": "^2.1.0"
+    "plist": "^3.0.1"
   },
   "devDependencies": {
     "np": "^2.20.1"
